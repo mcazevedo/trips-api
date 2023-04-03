@@ -6,7 +6,9 @@ Python 3.9 or later
 Docker
 Microsoft SQL Server ODBC Driver 17 for Linux
 Installation
-Clone the repository:
+
+
+### Clone the repository:
 
 
  ``$ git clone https://github.com/<username>/trips-api.git``
